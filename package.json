@@ -1,0 +1,23 @@
+{
+  "name": "calculator_react_js",
+  "version": "1.0.0",
+  "description": "ReactJS Tutorial - Build a Calculator App from Scratch",
+  "main": "index.js",
+  "scripts": {
+    "start": "node your-script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidrazmadzeExtra/calculator_react_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidrazmadzeExtra/calculator_react_js/issues"
+  },
+  "homepage": "https://github.com/davidrazmadzeExtra/calculator_react_js#readme",
+  "dependencies": {
+    "mathjs": "^11.5.0"
+  }
+}
